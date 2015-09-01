@@ -27,7 +27,7 @@
 #ifndef SONOS_WRITE_ONLY_MODE
 #include "../../MicroXPath/src/MicroXPath_P.h"
 #endif
-#include "../../Ethernet/src/EthernetClient.h"
+#include "Ethernet.h"
 
 // HTTP:
 #define HTTP_VERSION " HTTP/1.1\n"
