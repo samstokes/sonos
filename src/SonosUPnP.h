@@ -25,7 +25,7 @@
 #include "Arduino.h"
 #include "avr/pgmspace.h"
 #ifndef SONOS_WRITE_ONLY_MODE
-#include "../../MicroXPath/src/MicroXPath_P.h"
+#include "MicroXPath_P.h"
 #endif
 #include "Ethernet.h"
 
